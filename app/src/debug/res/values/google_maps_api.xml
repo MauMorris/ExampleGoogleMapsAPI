@@ -12,7 +12,7 @@
     43:F4:65:F6:19:82:ED:60:85:5E:0F:08:01:B8:78:C0:F6:30:BA:00
 
     SHA-1 certificate fingerprint:
-    43:F4:65:F6:19:82:ED:60:85:5E:0F:08:01:B8:78:C0:F6:30:BA:00
+    SHA1: 9F:02:FB:E6:3A:57:0F:FD:3C:47:4B:C4:24:50:A0:1C:77:2C:72:71
 
     Alternatively, follow the directions here:
     https://developers.google.com/maps/documentation/android/start#get-key
@@ -20,5 +20,5 @@
     Once you have your key (it starts with "AIza"), replace the "google_maps_key"
     string in this file.
     -->
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">XXXXXXXXXXXX</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDwfUC-KShkDo396IzQpj1BqXqBRFsDjUc</string>
 </resources>
